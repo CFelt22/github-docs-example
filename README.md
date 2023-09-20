@@ -42,5 +42,7 @@ Github Flavored Markdown (GFM) supports emoji shortcodes. Here are some examples
 ```
 > This is what the code looks like in markdown.
 
+[Secret Window Hidden Garden](/secret-window/hidden-garden.md)
+
 ## References
 [^1]: [Tasks](https://docs.github.com/fr/issues/managing-your-tasks-with-tasklists/creating-a-tasklist)
